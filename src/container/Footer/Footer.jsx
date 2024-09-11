@@ -39,10 +39,11 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans">2024 Gericht. All Rights reserved.Charles</p>
     </div>
 
   </div>
+  
 );
 
 export default Footer;
